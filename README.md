@@ -1,3 +1,6 @@
+Name: Hasini Bobbala
+Course: CSCE 3550 – Project 2
+
 # CSCE 3550 Project 2 – SQLite-backed JWKS Server
 
 Python extension of the Project 1 JWKS server. Private keys are stored in
