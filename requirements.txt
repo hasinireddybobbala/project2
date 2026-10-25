@@ -1,0 +1,5 @@
+cryptography
+pyjwt
+pytest
+pytest-cov
+flake8
